@@ -1,0 +1,557 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"is",
+				"is_authenticated"
+			],
+			[
+				"produc",
+				"products"
+			],
+			[
+				"Produc",
+				"ProductDetailSlugView"
+			],
+			[
+				"pr",
+				"product_id"
+			],
+			[
+				"cart",
+				"cart_id"
+			],
+			[
+				"re",
+				"request"
+			],
+			[
+				"Prod",
+				"ProductListView"
+			],
+			[
+				"product",
+				"product_list_view"
+			],
+			[
+				"get",
+				"get_user_model"
+			],
+			[
+				"register",
+				"register_page"
+			],
+			[
+				"Email",
+				"EmailField"
+			],
+			[
+				"auth",
+				"authenticate"
+			],
+			[
+				"contac",
+				"contact_form"
+			],
+			[
+				"Con",
+				"ContactForm"
+			],
+			[
+				"de",
+				"def_tot"
+			],
+			[
+				"off",
+				"off_tot"
+			],
+			[
+				"backgrou",
+				"background-color\tproperty"
+			],
+			[
+				"MAX",
+				"MAX_abstract"
+			],
+			[
+				"n",
+				"netscore"
+			],
+			[
+				"current",
+				"current_score"
+			],
+			[
+				"MIN",
+				"MIN_abstract"
+			],
+			[
+				"last",
+				"last_five_total"
+			],
+			[
+				"in",
+				"input"
+			],
+			[
+				"curre",
+				"current_score"
+			],
+			[
+				"s",
+				"somewhere"
+			],
+			[
+				"per",
+				"percentage_wins"
+			],
+			[
+				"perce",
+				"percentage"
+			],
+			[
+				"math",
+				"cmath\tstandard header"
+			],
+			[
+				"win",
+				"winbets"
+			],
+			[
+				"percen",
+				"percentage_stake"
+			],
+			[
+				"bets",
+				"betsfrequency"
+			],
+			[
+				"col",
+				"color\tproperty"
+			],
+			[
+				"margin",
+				"margin-left\tproperty"
+			],
+			[
+				"font",
+				"font-size\tproperty"
+			],
+			[
+				"back",
+				"background\tproperty"
+			],
+			[
+				"text",
+				"text-decoration\tproperty"
+			],
+			[
+				"u",
+				"ul\tTag"
+			],
+			[
+				"l",
+				"li\tTag"
+			],
+			[
+				"o",
+				"ol\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "src/orders/models.py",
+			"settings":
+			{
+				"buffer_size": 121,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/Darvinpatel/Desktop/Dev/Django/ecommerce",
+		"/Users/Darvinpatel/Desktop/Dev/Django/ecommerce/src"
+	],
+	"file_history":
+	[
+		"/Users/Darvinpatel/Desktop/Dev/Django/ecommerce/src/products/templates/products/detail.html",
+		"/Users/Darvinpatel/Desktop/Dev/Django/ecommerce/src/templates/base/css.html",
+		"/Users/Darvinpatel/Desktop/Dev/Django/ecommerce/src/templates/base/navbar.html",
+		"/Users/Darvinpatel/Desktop/Dev/Django/ecommerce/src/products/templates/products/snippets/update-cart.html",
+		"/Users/Darvinpatel/Desktop/Dev/Django/ecommerce/src/carts/templates/carts/home.html",
+		"/Users/Darvinpatel/Desktop/Dev/Django/ecommerce/src/carts/views.py",
+		"/Users/Darvinpatel/Desktop/learninggit/git_first/README.md",
+		"/Users/Darvinpatel/Desktop/Dev/Django/ecommerce/src/products/views.py",
+		"/Users/Darvinpatel/Desktop/Dev/Django/ecommerce/src/products/models.py",
+		"/Users/Darvinpatel/Desktop/Dev/Django/ecommerce/src/carts/urls.py",
+		"/Users/Darvinpatel/Desktop/Dev/Django/ecommerce/src/ecommerce/settings.py",
+		"/Users/Darvinpatel/Desktop/Dev/Django/ecommerce/src/carts/models.py",
+		"/Users/Darvinpatel/Desktop/Dev/Django/ecommerce/src/products/templates/products/update-cart.html",
+		"/Users/Darvinpatel/Desktop/Dev/Django/ecommerce/src/search/templates/search/snippets/search-form.html",
+		"/Users/Darvinpatel/Desktop/Dev/Django/ecommerce/src/ecommerce/urls.py",
+		"/Users/Darvinpatel/Desktop/Dev/Django/ecommerce/src/ecommerce/views.py",
+		"/Users/Darvinpatel/Desktop/Dev/Django/ecommerce/src/carts/admin.py",
+		"/Users/Darvinpatel/Desktop/Dev/Django/ecommerce/src/templates/home_page.html",
+		"/Users/Darvinpatel/Desktop/Dev/Django/ecommerce/src/tags/models.py",
+		"/Users/Darvinpatel/Desktop/Dev/Django/ecommerce/src/search/views.py",
+		"/Users/Darvinpatel/Desktop/Dev/Django/ecommerce/src/search/templates/search/view.html",
+		"/Users/Darvinpatel/Desktop/Dev/Django/ecommerce/src/tags/admin.py",
+		"/Users/Darvinpatel/Desktop/Dev/Django/ecommerce/src/templates/auth/login.html",
+		"/Users/Darvinpatel/Desktop/Dev/Django/ecommerce/src/search/urls.py",
+		"/Users/Darvinpatel/Desktop/Dev/Django/ecommerce/src/search/snippets/search-form.html",
+		"/Users/Darvinpatel/Desktop/Dev/Django/ecommerce/src/products/templates/products/list.html",
+		"/Users/Darvinpatel/Desktop/Dev/Django/ecommerce/src/products/urls.py",
+		"/Users/Darvinpatel/Desktop/Dev/Django/ecommerce/src/templates/auth/register.html",
+		"/Users/Darvinpatel/Desktop/Dev/Django/ecommerce/src/templates/base.html",
+		"/Users/Darvinpatel/Desktop/Dev/Django/ecommerce/src/products/templates/bootstrap/example.html",
+		"/Users/Darvinpatel/Desktop/Dev/Django/ecommerce/src/products/tests.py",
+		"/Users/Darvinpatel/Desktop/Dev/Django/ecommerce/src/products/templates/products/snippets/card.html",
+		"/Users/Darvinpatel/Desktop/Dev/Django/ecommerce/src/templates/contact/view.html",
+		"/Users/Darvinpatel/Desktop/Dev/Django/ecommerce/src/templates/base/js.html",
+		"/Users/Darvinpatel/Desktop/Dev/ecommerce/src/products/utils.py",
+		"/Users/Darvinpatel/Desktop/Dev/ecommerce/src/products/templates/products/featured-detail.html",
+		"/Users/Darvinpatel/Desktop/Dev/ecommerce/src/ecommerce/urls.py",
+		"/Users/Darvinpatel/Desktop/Dev/ecommerce/src/products/templates/utils.py",
+		"/Users/Darvinpatel/Desktop/Dev/ecommerce/src/products/templates/products/detail.html",
+		"/Users/Darvinpatel/Desktop/Dev/ecommerce/src/products/admin.py",
+		"/Users/Darvinpatel/Desktop/Dev/ecommerce/src/products/templates/products/list.html",
+		"/Users/Darvinpatel/Desktop/Dev/ecommerce/src/products/models.py",
+		"/Users/Darvinpatel/Desktop/Dev/ecommerce/src/static_my_proj/css/main.css",
+		"/Users/Darvinpatel/Desktop/Dev/ecommerce/src/ecommerce/settings.py",
+		"/Users/Darvinpatel/Desktop/Dev/ecommerce/src/templates/home_page.html",
+		"/Users/Darvinpatel/Desktop/Dev/ecommerce/src/templates/contact/view.html",
+		"/Users/Darvinpatel/Desktop/Dev/ecommerce/src/ecommerce/forms.py",
+		"/Users/Darvinpatel/Desktop/Dev/ecommerce/src/ecommerce/views.py",
+		"/Users/Darvinpatel/Desktop/Dev/ecommerce/src/templates/auth/register.html",
+		"/Users/Darvinpatel/Desktop/Dev/ecommerce/src/templates/auth/login.html",
+		"/Users/Darvinpatel/Desktop/Dev/ecommerce/src/ecommerce/templates/home_page.html",
+		"/Users/Darvinpatel/Desktop/script.js",
+		"/Users/Darvinpatel/Desktop/index.html",
+		"/Users/Darvinpatel/Desktop/tweetme/tweetme/settings/production.py",
+		"/Users/Darvinpatel/Desktop/tweetme/tweetme/settings/local.py",
+		"/Users/Darvinpatel/Desktop/tweetme/tweetme/urls.py",
+		"/Users/Darvinpatel/Desktop/tweetme/tweetme/views.py",
+		"/Users/Darvinpatel/Desktop/tweetme/tweetme/settings/base.py",
+		"/Users/Darvinpatel/Desktop/tweetme/tweetme/settings/__init__.py",
+		"/Users/Darvinpatel/Desktop/experiment",
+		"/Users/Darvinpatel/Desktop/nba.py",
+		"/Users/Darvinpatel/Desktop/angularapp/contact.html",
+		"/Users/Darvinpatel/Desktop/angularapp/services.html",
+		"/Users/Darvinpatel/Desktop/angularapp/about.html",
+		"/Users/Darvinpatel/Desktop/angularapp/style.css",
+		"/Users/Darvinpatel/Desktop/angularapp/index.html",
+		"/Users/Darvinpatel/Desktop/bootstrap.css",
+		"/Users/Darvinpatel/Desktop/simpletotal.py",
+		"/Users/Darvinpatel/Desktop/test.html",
+		"/Users/Darvinpatel/Desktop/photos.css",
+		"/Users/Darvinpatel/Desktop/nba_overs_unders.cpp",
+		"/Users/Darvinpatel/Desktop/betmodel.cpp",
+		"/Users/Darvinpatel/Desktop/overnba.py",
+		"/Users/Darvinpatel/Desktop/spreaddata",
+		"/Users/Darvinpatel/Desktop/python_algo_predictions",
+		"/Users/Darvinpatel/Desktop/stats",
+		"/Users/Darvinpatel/Desktop/nba_uo",
+		"/Users/Darvinpatel/Desktop/bookprice.py",
+		"/Users/Darvinpatel/Desktop/drawnobets",
+		"/Users/Darvinpatel/Desktop/FTmulti",
+		"/Users/Darvinpatel/Desktop/bets",
+		"/Users/Darvinpatel/Desktop/ITS-presentation",
+		"/Users/Darvinpatel/Downloads/source/audioUtils.py",
+		"/Users/Darvinpatel/Downloads/source/videoUtils.py",
+		"/Users/Darvinpatel/Downloads/source/translatevideo.py",
+		"/Users/Darvinpatel/Downloads/source/transcribeUtils.py",
+		"/Users/Darvinpatel/Downloads/source/THIRD_PARTY_LICENSES.txt",
+		"/Users/Darvinpatel/Downloads/source/srtUtils.py",
+		"/Users/Darvinpatel/Downloads/source/Notice.txt",
+		"/Users/Darvinpatel/Downloads/source/makevideo.bat",
+		"/Users/Darvinpatel/Downloads/source/concatenateVideos.py",
+		"/Users/Darvinpatel/Downloads/tester.py",
+		"/Users/Darvinpatel/Downloads/accessKeys.csv",
+		"/Users/Darvinpatel/Desktop/dodo.html",
+		"/Users/Darvinpatel/Desktop/tryit.html",
+		"/Users/Darvinpatel/Desktop/todos.css",
+		"/Users/Darvinpatel/Downloads/09_Selector_Exercise_Starter/selectors.css",
+		"/Users/Darvinpatel/Downloads/09_Selector_Exercise_Starter/selectorsExercise.html"
+	],
+	"find":
+	{
+		"height": 24.0
+	},
+	"find_in_files":
+	{
+		"height": 101.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "src/orders/models.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 121,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								120,
+								62
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 36.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "ecommerce.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"nav",
+				"src/templates/base/navbar.html"
+			],
+			[
+				"up",
+				"src/products/templates/products/snippets/update-cart.html"
+			],
+			[
+				"deta",
+				"src/products/templates/products/detail.html"
+			],
+			[
+				"update",
+				"src/products/templates/products/snippets/update-cart.html"
+			],
+			[
+				"sear",
+				"src/search/templates/search/snippets/search-form.html"
+			],
+			[
+				"urls",
+				"src/carts/urls.py"
+			],
+			[
+				"home",
+				"src/templates/home_page.html"
+			],
+			[
+				"se",
+				"src/ecommerce/settings.py"
+			],
+			[
+				"sett",
+				"src/ecommerce/settings.py"
+			],
+			[
+				"model",
+				"src/products/models.py"
+			],
+			[
+				"login",
+				"src/templates/auth/login.html"
+			],
+			[
+				"view",
+				"src/search/views.py"
+			],
+			[
+				"setti",
+				"src/ecommerce/settings.py"
+			],
+			[
+				"list",
+				"src/products/templates/products/list.html"
+			],
+			[
+				"setting",
+				"src/ecommerce/settings.py"
+			],
+			[
+				"views",
+				"src/products/views.py"
+			],
+			[
+				"url",
+				"src/ecommerce/urls.py"
+			],
+			[
+				"regis",
+				"src/templates/auth/register.html"
+			],
+			[
+				"lis",
+				"src/products/templates/products/list.html"
+			],
+			[
+				"detail",
+				"src/products/templates/products/detail.html"
+			],
+			[
+				"bas",
+				"src/templates/base.html"
+			],
+			[
+				"mode",
+				"src/products/models.py"
+			],
+			[
+				"ur",
+				"src/products/urls.py"
+			],
+			[
+				"detai",
+				"src/products/templates/products/detail.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 168.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
